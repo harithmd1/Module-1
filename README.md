@@ -3,7 +3,7 @@
 > **Algorithmic trading** brings together computer software and financial markets to open and close trades based on programmed code. Investors and Traders can set when they want trades opened or closed. They can also leverage computer power to perform high-frequency trading. With a variety of strategies traders can use, algorithmic trading is prevalent in financial markets today. It entails computer hardware, programming skills, and financial market experience.
 https://www.xtxmarkets.com/#news
 
-> **XTA Markets** is a private limited company incorporated on 30 January 2015. 
+> **XTX Markets** is a private limited company incorporated on 30 January 2015. 
  https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
 
 > It was mainly founded by **Gerko, Alexander** in addition to Ferville, Mathieu; Amrolia, Zarthustra Jal; Buehler, Hans; Harry, Serge Jean Francois; Ireland, David Charles; Paterson, Duncan; Beattie, Nicola Jane; Kuschill, Timothy John.
